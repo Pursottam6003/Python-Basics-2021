@@ -1,0 +1,2 @@
+def fact :
+    int
